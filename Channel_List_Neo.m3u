@@ -1,61 +1,73 @@
 #EXTM3U
 
 #EXTINF:-1, M. LaLiga 1080p MultiAudio
-acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
+acestream://1969c27658d4c8333ab2c0670802546121a774a5
+
+#EXTINF:-1, M. LaLiga 1080p 2
+acestream://731428b18eb656121990261c1b072b13f7caef30
+
+#EXTINF:-1, M. LaLiga 1080p 3
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
 #EXTINF:-1, M. LaLiga 720p MultiAudio
-acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
+acestream://f031f5728b32f6089dda28edebe990cf198108d8
 
 #EXTINF:-1, DAZN La Liga 1080p
-acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+
+#EXTINF:-1, DAZN La Liga 1080p 2
+acestream://95b2238dec35cf00dfdf8fba18e9920bc2c56256
 
 #EXTINF:-1, DAZN La Liga 720p
-acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
+acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 
-#EXTINF:-1, La liga Tv Bar 1080p
-acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
+#EXTINF:-1, La liga Hypermotion 1080p
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
 
-#EXTINF:-1, La liga Tv Bar 720p
-acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
+#EXTINF:-1, La liga Hypermotion 720p
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+
+#EXTINF:-1, La liga Hypermotion 2 1080p
+acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
 
 #EXTINF:-1, M. #Vamos 1080p
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 
 #EXTINF:-1, M. #Vamos 720p
-acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 
 #EXTINF:-1, M. Deportes 1080p
-acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
+acestream://d00223931b1854163e24c5c22475015d7d45c112
 
 #EXTINF:-1, M. Deportes 720p
 acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
 
 #EXTINF:-1, M. Deportes 2 1080p
-acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 
 #EXTINF:-1, M. Deportes 3 1080p
-acestream://ecf2096f9f612a70638d644fb621472a3ddaeb20
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
 
 #EXTINF:-1, M. Deportes 4 1080p
-acestream://08db089084ddbaceba7c239817407bf99708b9ad
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
 
 #EXTINF:-1, M. Deportes 5 1080p
-acestream://ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 
 #EXTINF:-1, M. Deportes 6 1080p
-acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486
+acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 
 #EXTINF:-1, M. Deportes 7 1080p
 acestream://5da3c25c14d111cb9c33cf6e0b45b7cab88fe741
 
 #EXTINF:-1, M. Liga de Campeones 1080p
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 
-#EXTINF:-1, M. Liga de Campeones 720p
-acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
+#EXTINF:-1, M. Liga de Campeones 1080p 2
+acestream://16acb1d7c7760a7929d79b99f804bdf7a5d7e26b
 
 #EXTINF:-1, M. Liga de Campeones 2 1080p
-acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 
 #EXTINF:-1, M. Liga de Campeones 2 720p
 acestream://2d584c7335ff44f97c3cf64947892ef30fde715c
@@ -109,10 +121,10 @@ acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
 
 #EXTINF:-1, EuroSport 1 1080p
-acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 
 #EXTINF:-1, EuroSport 2 1080p
-acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
 
 #EXTINF:-1, beIN SPORTS  1080p
 acestream://c0f38f2a4b891db823edb45e64f1191655526e5e
