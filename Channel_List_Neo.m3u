@@ -67,10 +67,19 @@ acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 acestream://5da3c25c14d111cb9c33cf6e0b45b7cab88fe741
 
 #EXTINF:-1, M. Liga de Campeones 1080p
-acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
 
 #EXTINF:-1, M. Liga de Campeones 1080p 2
-acestream://16acb1d7c7760a7929d79b99f804bdf7a5d7e26b
+acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
+
+#EXTINF:-1, M. Liga de Campeones 1080p 3
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+
+#EXTINF:-1, M. Liga de Campeones 720P 1
+acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
+
+#EXTINF:-1, M. Liga de Campeones 720P 2
+acestream://6b56c1de436327b49e429a702e81e9269630e37a
 
 #EXTINF:-1, M. Liga de Campeones 2 1080p
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
