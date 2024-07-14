@@ -42,6 +42,9 @@ acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1, M. #Vamos 720p
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 
+#EXTINF:-1, M. #Movistar +
+acestream:?infohash=36777f77031d75fc11eb0d51d84b0d03a68149cf
+
 #EXTINF:-1, M. Deportes 1080p
 acestream://d00223931b1854163e24c5c22475015d7d45c112
 
